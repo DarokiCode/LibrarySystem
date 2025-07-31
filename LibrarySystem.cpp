@@ -87,8 +87,8 @@ int main() {
         cin >> choice;
 
         if (choice == 3) {
-            cout << "Exiting the program. Goodbye!";
-            cout << "See you next time!!<3" << endl;
+            cout << "Exiting the program. Goodbye!" << endl;
+            cout << "See you next time!!";
             break;
         }
 
